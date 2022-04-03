@@ -1,0 +1,17 @@
+{
+  "casino": "CASINO",
+  "sport": "SPORT",
+  "livecasino": "LIVE CASINO",
+  "signin": "SIGN IN",
+  "register": "REGISTER",
+  "login": "LOGIN",
+  "email": "email",
+  "password": "password",
+  "name": "name",
+  "surname": "surname",
+  "age": "age",
+  "signup": "SIGN UP",
+  "en": "en",
+  "hy": "hy",
+  "signout": "SIGN OUT"
+}
